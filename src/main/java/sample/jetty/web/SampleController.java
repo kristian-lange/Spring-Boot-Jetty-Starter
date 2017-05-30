@@ -16,6 +16,7 @@
 
 package sample.jetty.web;
 
+import org.springframework.beans.factory.annotation.Value;
 import sample.jetty.service.HelloWorldService;
 
 import org.springframework.beans.factory.annotation.Autowired;
