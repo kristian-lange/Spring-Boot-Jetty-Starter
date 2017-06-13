@@ -1,6 +1,9 @@
 # Spring-Boot-Jetty-Starter
 
-Here is a [link to a second page](docs/other-page.md)
+**Table of Contents**
+1. [Link to a first page](docs/other-page.md)
+1. [Link to a second page](docs/other-page.md)
+1. [Link to a third page](docs/other-page.md)
 
 ![Here should be a picture](docs/network.png)
 
