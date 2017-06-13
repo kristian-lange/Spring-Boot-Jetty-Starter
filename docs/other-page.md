@@ -2,4 +2,4 @@
 
 Here are even more important information.
 
-![Here should be a picture](docs/diff-example.png)
+![Here should be a picture](diff-example.png)
