@@ -2,9 +2,11 @@
 
 Here is a [link to a second page](docs/other-page.md)
 
-![This is a picture](docs/network.png)
+![Here should be a picture](docs/network.png)
 
 The rest is stolen from https://github.github.com/github-flavored-markdown/sample_content.html
+
+___
 
 GitHub Flavored Markdown
 ================================
